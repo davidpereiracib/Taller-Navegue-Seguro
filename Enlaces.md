@@ -42,14 +42,10 @@ https://adblockplus.org/es/
 Netcraft Extension por Netcraft Ltd:   
 https://www.netcraft.com/apps/browser/
 
-
-
-
-
-Privacy Badger por EFF Technologies :
+Privacy Badger por EFF Technologies :  
 https://privacybadger.org/
 
-Cookie AutoDelete por CAD Team: 
+Cookie AutoDelete por CAD Team (Solo para Google Chrome):   
 https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=en
 
 ## Búsqueda reversa de Imágenes
