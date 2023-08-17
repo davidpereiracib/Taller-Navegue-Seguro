@@ -25,7 +25,7 @@ https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com
 Brave  
 https://brave.com/
 
-## Addons - Plugins de seguridad para navegadores (Firefox - Chrome - Edge)
+## Addons - Plugins de seguridad y Privacidad para navegadores (Firefox - Chrome - Edge)
 
 NoScript por Giorgio Maone (tener en cuenta que algunos Scripts se deben activar manualmente para que la página funcione correctamente):  
 https://noscript.net/
