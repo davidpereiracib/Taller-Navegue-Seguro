@@ -75,6 +75,14 @@ https://pimeyes.com/en
 Exif Reader:  
 https://linangdata.com/exif-reader/
 
+## Este Email es Real?
+
+Centralops:  
+https://centralops.net/co/
+
+Phishtank:  
+https://www.phishtank.com/
+
 
 ## Escaneo de URL's Sospechosas
 
