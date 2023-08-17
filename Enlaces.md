@@ -2,9 +2,7 @@
 
 ## Es esto Malware?  -  Sandbox en linea
 
-Virus Total
-
-
+Virus Total  
 https://www.virustotal.com/gui/home/upload
 
 Jotti (Sandbox)
