@@ -1,4 +1,4 @@
-<img width="271" alt="image" src="https://github.com/davidpereiracib/Taller-Navegue-Seguro/assets/50082994/9c5c952a-9cf9-486b-b915-b451407a2215"># Taller de Ciberseguridad - Navegue Seguro en Internet
+# Taller de Ciberseguridad - Navegue Seguro en Internet
 
 ## Es esto Malware?  -  Sandbox en linea
 
