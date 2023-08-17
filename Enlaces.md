@@ -99,6 +99,18 @@ https://monitor.firefox.com/
 How Secure is My Password:  
 https://www.security.org/how-secure-is-my-password/
 
+Kaspersky Password:  
+https://password.kaspersky.com/
+
+## Gestores de Contraseñas
+
+LastPass:  
+https://www.lastpass.com/
+
+Keepass:  
+https://keepass.info/
+
+
 
 
 ## Escaneo de URL's Sospechosas
