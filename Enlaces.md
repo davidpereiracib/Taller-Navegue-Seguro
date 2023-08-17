@@ -14,15 +14,15 @@ https://any.run/
 Hybrid Analysis:  
 https://hybrid-analysis.com
 
-Metadefender  
+Metadefender:  
 https://metadefender.opswat.com/
 
 ## Navegadores Orientados a la Privacidad y la Seguridad 
 
-Firefox  
+Firefox:  
 https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com
 
-Brave  
+Brave:  
 https://brave.com/
 
 ## Addons - Plugins de seguridad y Privacidad para navegadores (Firefox - Chrome - Edge)
@@ -30,30 +30,30 @@ https://brave.com/
 NoScript por Giorgio Maone (tener en cuenta que algunos Scripts se deben activar manualmente para que la página funcione correctamente):  
 https://noscript.net/
 
-Ublock  
+Ublock:  
 https://www.ublock.org/es
 
-Https-Everywhere  
+Https-Everywhere:  
 https://www.eff.org/https-everywhere
 
-Adblockplus  
+Adblockplus:  
 https://adblockplus.org/es/
 
-Netcraft Extension por Netcraft Ltd:   
+Netcraft Extension por Netcraft Ltd:     
 https://www.netcraft.com/apps/browser/
 
-Privacy Badger por EFF Technologies :  
+Privacy Badger por EFF Technologies:  
 https://privacybadger.org/
 
 Cookie AutoDelete por CAD Team (Solo para Google Chrome):   
 https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=en
 
-## Que Información Entrego?
+## Que Información Entrego? - Cual es mi Sombra digital?
 
-Centralops  
+Centralops:  
 https://centralops.net/co/
 
-Panopticlick  
+Panopticlick:  
 https://panopticlick.eff.org/
 
 ## En dónde está mi foto? - Búsqueda Reversa de Imágenes
@@ -61,7 +61,11 @@ https://panopticlick.eff.org/
 Tineye:
 https://tineye.com/
 
+Búsqueda reversa de imágenes en Google:  
+https://www.google.com/imghp?hl=en
 
+Yandex:  
+https://yandex.com/
 
 ## Escaneo de URL's Sospechosas
 
