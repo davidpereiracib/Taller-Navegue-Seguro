@@ -70,6 +70,9 @@ https://yandex.com/
 Pimeyes (Pago):  
 https://pimeyes.com/en
 
+Secpro OSINT Tool:  
+https://addons.mozilla.org/es/firefox/addon/secpro-osint-tools/
+
 ## Qué Dice mi Foto? - Qué Estoy Filtrando?
 
 Exif Reader:  
@@ -82,6 +85,20 @@ https://centralops.net/co/
 
 Phishtank:  
 https://www.phishtank.com/
+
+## Ya estoy Hackead@?
+
+Have I Been pwned?:  
+https://haveibeenpwned.com/
+
+Firefox Monitor:  
+https://monitor.firefox.com/
+
+## Que tan segura es nuestra Clave?
+
+How Secure is My Password:  
+https://www.security.org/how-secure-is-my-password/
+
 
 
 ## Escaneo de URL's Sospechosas
