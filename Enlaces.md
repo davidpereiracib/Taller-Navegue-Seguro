@@ -36,7 +36,10 @@ https://www.ublock.org/es
 Https-Everywhere  
 https://www.eff.org/https-everywhere
 
-Netcraft Extension por Netcraft Ltd: 
+Adblockplus  
+https://adblockplus.org/es/
+
+Netcraft Extension por Netcraft Ltd:   
 https://www.netcraft.com/apps/browser/
 
 
