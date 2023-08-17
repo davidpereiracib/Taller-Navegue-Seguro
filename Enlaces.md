@@ -1,8 +1,10 @@
-# Taller de Ciberseguridad - navegue Seguro en Internet
+<img width="566" alt="image" src="https://github.com/davidpereiracib/Taller-Navegue-Seguro/assets/50082994/5e07b158-b36a-474d-9134-1d3d1de49004"># Taller de Ciberseguridad - Navegue Seguro en Internet
 
 ## Es esto Malware?  -  Sandbox en linea
 
 Virus Total
+
+
 https://www.virustotal.com/gui/home/upload
 
 Jotti (Sandbox)
@@ -17,7 +19,12 @@ https://hybrid-analysis.com
 Metadefender
 https://metadefender.opswat.com/
 
+## Navegadores Orientados a la Privacidad y la Seguridad 
 
+Firefox
+https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com
+
+https://brave.com/
 
 ## Addons de seguridad para navegadores (Firefox - Chrome - Edge)
 
@@ -42,9 +49,7 @@ https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomj
 
 https://addons.mozilla.org/en-US/firefox/addon/secpro-osint-tools/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 
-## Navegador que protege tu Navegación (Navega de Forma Privada y Segura)
 
-https://brave.com/
 
 ## Escaneo de URL's Sospechosas
 
