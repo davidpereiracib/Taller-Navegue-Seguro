@@ -111,35 +111,28 @@ Keepass:
 https://keepass.info/
 
 
-
-
 ## Escaneo de URL's Sospechosas
 
+UrlScan:  
 https://urlscan.io/
 
+Virustotal:  
 https://www.virustotal.com/gui/home/url
 
+MalwareURL:  
 https://www.malwareurl.com/listing-urls.php
 
+UrlQuery:  
 https://urlquery.net/
 
+Zulu:  
 https://zulu.zscaler.com/
 
 
-## Sandbox en linea
 
-https://any.run/
-
-https://hybrid-analysis.com
-
-https://www.virustotal.com/gui/home/upload
-
-https://metadefender.opswat.com/
-
-
-
-### My Social:
-  - Web: https://secpro.co
+### Our Social:
+  - Web Español: https://secpro.co
+  - Web Inglés https://secpro.llc
   - Twitter: https://twitter.com/davidpereiracib
   - LinkedIn: https://www.linkedin.com/in/davidfpereira
   - Youtube: https://www.youtube.com/c/DavidPereira
