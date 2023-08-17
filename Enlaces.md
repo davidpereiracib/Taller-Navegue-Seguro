@@ -1,4 +1,4 @@
-# Taller de Ciberseguridad - Navegue Seguro en Internet
+<img width="271" alt="image" src="https://github.com/davidpereiracib/Taller-Navegue-Seguro/assets/50082994/9c5c952a-9cf9-486b-b915-b451407a2215"># Taller de Ciberseguridad - Navegue Seguro en Internet
 
 ## Es esto Malware?  -  Sandbox en linea
 
@@ -19,21 +19,29 @@ https://metadefender.opswat.com/
 
 ## Navegadores Orientados a la Privacidad y la Seguridad 
 
-Firefox
+Firefox  
 https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com
 
+Brave  
 https://brave.com/
 
-## Addons de seguridad para navegadores (Firefox - Chrome - Edge)
+## Addons - Plugins de seguridad para navegadores (Firefox - Chrome - Edge)
+
+NoScript por Giorgio Maone (tener en cuenta que algunos Scripts se deben activar manualmente para que la página funcione correctamente):  
+https://noscript.net/
+
+Ublock  
+https://www.ublock.org/es
+
+Https-Everywhere  
+https://www.eff.org/https-everywhere
 
 Netcraft Extension por Netcraft Ltd: 
 https://www.netcraft.com/apps/browser/
 
-NoScript por Giorgio Maone (tener en cuenta que algunos Scripts se deben activar manualmente para que la página funcione correctamente) :
-https://noscript.net/
 
-AdBlock por AdBlock: 
-https://adblockplus.org/
+
+
 
 Privacy Badger por EFF Technologies :
 https://privacybadger.org/
