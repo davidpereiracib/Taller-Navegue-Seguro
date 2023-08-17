@@ -58,7 +58,7 @@ https://panopticlick.eff.org/
 
 ## En dónde está mi foto? - Búsqueda Reversa de Imágenes
 
-Tineye:
+Tineye:  
 https://tineye.com/
 
 Búsqueda reversa de imágenes en Google:  
@@ -67,8 +67,13 @@ https://www.google.com/imghp?hl=en
 Yandex:  
 https://yandex.com/
 
-Pimeyes:  
+Pimeyes (Pago):  
 https://pimeyes.com/en
+
+## Qué Dice mi Foto? - Qué Estoy Filtrando?
+
+Exif Reader:  
+https://linangdata.com/exif-reader/
 
 
 ## Escaneo de URL's Sospechosas
