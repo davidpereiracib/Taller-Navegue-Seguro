@@ -1,20 +1,20 @@
-<img width="566" alt="image" src="https://github.com/davidpereiracib/Taller-Navegue-Seguro/assets/50082994/5e07b158-b36a-474d-9134-1d3d1de49004"># Taller de Ciberseguridad - Navegue Seguro en Internet
+# Taller de Ciberseguridad - Navegue Seguro en Internet
 
 ## Es esto Malware?  -  Sandbox en linea
 
 Virus Total  
 https://www.virustotal.com/gui/home/upload
 
-Jotti (Sandbox)
+Jotti (Sandbox)  
 https://virusscan.jotti.org/
 
-Any Run
+Any Run  
 https://any.run/
 
-Hybrid Analysis
+Hybrid Analysis  
 https://hybrid-analysis.com
 
-Metadefender
+Metadefender  
 https://metadefender.opswat.com/
 
 ## Navegadores Orientados a la Privacidad y la Seguridad 
