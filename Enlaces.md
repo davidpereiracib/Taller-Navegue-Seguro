@@ -1,5 +1,3 @@
-<img width="217" alt="image" src="https://github.com/davidpereiracib/Taller-Navegue-Seguro/assets/50082994/6d197fc0-8599-4acc-a1d6-ac8b60e9b1c2"><img width="361" alt="image" src="https://github.com/davidpereiracib/Taller-Navegue-Seguro/assets/50082994/1724682a-343d-454e-b460-b817bd2327bf"># Enlaces de Interés para tu Ciberseguridad
-
 ## Es esto Malware?
 ## Sandbox en linea
 
