@@ -2,16 +2,16 @@
 
 ## Es esto Malware?  -  Sandbox en linea
 
-Virus Total  
+Virus Total:  
 https://www.virustotal.com/gui/home/upload
 
-Jotti (Sandbox)  
+Jotti (Sandbox):  
 https://virusscan.jotti.org/
 
-Any Run  
+Any Run:  
 https://any.run/
 
-Hybrid Analysis  
+Hybrid Analysis:  
 https://hybrid-analysis.com
 
 Metadefender  
@@ -48,11 +48,18 @@ https://privacybadger.org/
 Cookie AutoDelete por CAD Team (Solo para Google Chrome):   
 https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=en
 
-## Búsqueda reversa de Imágenes
+## Que Información Entrego?
 
-### Herramientas OSINT de SecPro:
+Centralops  
+https://centralops.net/co/
 
-https://addons.mozilla.org/en-US/firefox/addon/secpro-osint-tools/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Panopticlick  
+https://panopticlick.eff.org/
+
+## En dónde está mi foto? - Búsqueda Reversa de Imágenes
+
+Tineye:
+https://tineye.com/
 
 
 
